@@ -1,6 +1,6 @@
 [submodule "scripts/vcpkg"]
 	path = scripts/vcpkg
-	url = https://github.com/microsoft/vcpkg.git
+	url = https://github.com.cnpmjs.org/microsoft/vcpkg.git
 [submodule "components/pango_python/pybind11"]
 	path = components/pango_python/pybind11
-	url = https://github.com/pybind/pybind11.git
+	url = https://github.com.cnpmjs.org/pybind/pybind11.git
